@@ -17,4 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Contador de pessoas
 
-App feito em flutter com o objetivo de ser um contador de pessoas em um determinado local para determinar a capacidade maxima
+### App feito em flutter com o objetivo de ser um contador de pessoas em um determinado local para determinar a capacidade maxima
+
+
+autor do ícone https://www.flaticon.com/br/autores/inipagistudio
